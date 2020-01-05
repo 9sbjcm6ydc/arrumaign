@@ -7722,7 +7722,7 @@ a.reaction:hover .reaction-text,a.reaction:focus .reaction-text{
     font-family:'Font Awesome 5 Duotone';
     font-style:normal;
     font-weight:900;
-    src:url('styles/fonts/fa/fa-duotone-900.woff2') format('woff2'),url('styles/fonts/fa/fa-duotone-900.woff') format('woff')
+    src:url('https://br.ign.com/forum/styles/fonts/fa/fa-duotone-900.woff2') format('woff2'),url('https://br.ign.com/forum/styles/fonts/fa/fa-duotone-900.woff') format('woff')
 }
 .fad{
     font-family:'Font Awesome 5 Duotone';
@@ -12950,7 +12950,7 @@ a.reaction:hover .reaction-text,a.reaction:focus .reaction-text{
     font-family:'Font Awesome 5 Pro';
     font-style:normal;
     font-weight:300;
-    src:url('styles/fonts/fa/fa-light-300.woff2') format('woff2'),url('styles/fonts/fa/fa-light-300.woff') format('woff')
+    src:url('https://br.ign.com/forum/styles/fonts/fa/fa-light-300.woff2') format('woff2'),url('https://br.ign.com/forum/styles/fonts/fa/fa-light-300.woff') format('woff')
 }
 .fal{
     font-family:'Font Awesome 5 Pro';
@@ -12962,7 +12962,7 @@ a.reaction:hover .reaction-text,a.reaction:focus .reaction-text{
     font-family:'Font Awesome 5 Pro';
     font-style:normal;
     font-weight:400;
-    src:url('styles/fonts/fa/fa-regular-400.woff2') format('woff2'),url('styles/fonts/fa/fa-regular-400.woff') format('woff')
+    src:url('https://br.ign.com/forum/styles/fonts/fa/fa-regular-400.woff2') format('woff2'),src:url('https://br.ign.com/forum/styles/fonts/fa/fa-regular-400.woff') format('woff')
 }
 .far{
     font-family:'Font Awesome 5 Pro';
