@@ -1362,7 +1362,7 @@ void 0 === window.jQuery && (jQuery = $ = {
       - 1 !== e && c.splice(e, 1);
       c.push(a);
       c.length > b && (c = c.reverse().slice(0, b).reverse());
-      XF.Cookie.set('emoji_usage', c.join(','), new Date((new Date).setFullYear((new Date).getFullYear() + 1)));
+      XF.Cookie.set('emoji_usage', ':S8:,:S20:,:S30:,:S9:,:S50:,:S24:,:S2:,:S1:,:S31:,:S21:,:S33:,:S6:,:S41:,:S37:,:S16:,:S3:,:S5:,:S35:,:S26:,:S10:,:clap:,:S13:,:S45:,:S22:,:S23:,:S47:,:S48:,:S34:,:S36:,::angryone:,::chocado:,:S27:,:S40:,:S39:,:S19:,:S32:,:S15:,:S38:,:M3:,:M11:,:M16:,:M18:,:M24:,:M34:', new Date((new Date).setFullYear((new Date).getFullYear() + 1)));
       d(h).trigger('recent-emoji:logged');
       return c
     },
