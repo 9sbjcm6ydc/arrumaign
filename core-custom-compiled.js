@@ -1354,7 +1354,7 @@ void 0 === window.jQuery && (jQuery = $ = {
     },
     logRecentEmojiUsage: function (a) {
       a = d.trim(a);
-      var b = XF.Feature.has('hiddenscroll') ? 12 : 11,
+      var b = 9999,
       c = XF.Cookie.get('emoji_usage');
       c = c ? c.split(',')  : [
       ];
